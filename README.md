@@ -11,3 +11,11 @@ The use of Deep learning in Cyber-Physical Systems (CPSs) is gaining popularity 
 - [SWaT](https://github.com/Simula-COMPLEX/nirvana/blob/main/swat-v2.ipynb)
 - [KITTI](https://github.com/Simula-COMPLEX/nirvana/blob/main/KITTI-v2.ipynb)
 - [Video conferencing](https://github.com/Simula-COMPLEX/nirvana/blob/main/Video%20conferencing-v2.ipynb)
+
+## People
+* Ferhat Ozgur Catak https://www.simula.no/people/ozgur
+* Tao Yue https://www.simula.no/people/tao
+* Shaukat Ali https://www.simula.no/people/shaukat
+
+## Paper
+* F.O. Catak, T. Yue and S. Ali. Uncertainty-Aware Prediction Validator in Deep Learning Models for Cyber-Physical System Data. *Under review*, 2021.
