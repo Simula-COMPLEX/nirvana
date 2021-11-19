@@ -1,0 +1,4 @@
+# ignore all logs
+git_push_all.sh
+.ipynb_checkpoints
+
