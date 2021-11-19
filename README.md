@@ -13,7 +13,7 @@ The use of Deep learning in Cyber-Physical Systems (CPSs) is gaining popularity 
 - [Video conferencing](https://github.com/Simula-COMPLEX/nirvana/blob/main/Video%20conferencing-v2.ipynb)
 
 ## People
-* Ferhat Ozgur Catak https://www.simula.no/people/ozgur
+* F. Ozgur Catak https://www.simula.no/people/ozgur
 * Tao Yue https://www.simula.no/people/tao
 * Shaukat Ali https://www.simula.no/people/shaukat
 
