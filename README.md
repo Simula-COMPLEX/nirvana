@@ -8,3 +8,6 @@ The use of Deep learning in Cyber-Physical Systems (CPSs) is gaining popularity 
 
 ## Jupyter notebooks
 - [KITTI](https://github.com/Simula-COMPLEX/nirvana/blob/main/KITTI-v2.ipynb)
+- [Video conferencing](https://github.com/Simula-COMPLEX/nirvana/blob/main/Video%20conferencing-v2.ipynb)
+- [Robot](https://github.com/Simula-COMPLEX/nirvana/blob/main/robot-uncertainty-v2.ipynb)
+- [SWaT](https://github.com/Simula-COMPLEX/nirvana/blob/main/swat-v2.ipynb)
