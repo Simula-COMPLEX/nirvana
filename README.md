@@ -18,4 +18,4 @@ The use of Deep learning in Cyber-Physical Systems (CPSs) is gaining popularity 
 * Shaukat Ali https://www.simula.no/people/shaukat
 
 ## Paper
-* F.O. Catak, T. Yue and S. Ali. Uncertainty-Aware Prediction Validator in Deep Learning Models for Cyber-Physical System Data. *Under review*, 2021.
+* Catak, F. O., Yue, T., & Ali, S. (2022). Uncertainty-Aware Prediction Validator in Deep Learning Models for Cyber-Physical System Data. *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 31(*4*), 1-31.
